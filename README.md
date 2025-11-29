@@ -1,12 +1,3 @@
-# 🚀 TechSolutions Platform
-
-Sistema de Gestión Empresarial con Implementación de 6 Patrones de Diseño
-
-[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![Maven](https://img.shields.io/badge/Maven-3.8+-blue.svg)](https://maven.apache.org/)
-
----
 
 ## 📋 Descripción del Proyecto
 
@@ -22,7 +13,7 @@ TechSolutions Platform es un sistema integral desarrollado para pequeñas y medi
 **Proyecto Final - Patrones de Diseño de Software**  
 **Institución:** IDAT  
 **Curso:** Análisis y Diseño de Sistemas  
-**Año:** 2024
+**Año:** 2025
 
 ---
 
@@ -228,28 +219,6 @@ Para ejecutar las pruebas:
 
 ---
 
-## 👨‍💻 Autor
 
-**Omar**  
-Estudiante de Análisis y Diseño de Sistemas  
-IDAT - 2024
 
----
 
-## 📄 Licencia
-
-Este proyecto fue desarrollado con fines educativos como parte del curso de Patrones de Diseño de Software.
-
----
-
-## 🙏 Agradecimientos
-
-- Profesor del curso de Patrones de Diseño de Software
-- IDAT - Instituto de Educación Superior
-- Compañeros de clase por su apoyo
-
----
-
-## 📞 Contacto
-
-Para consultas sobre el proyecto, contactar a través de la plataforma académica de IDAT.
